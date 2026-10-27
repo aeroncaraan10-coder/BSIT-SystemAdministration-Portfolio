@@ -1,4 +1,4 @@
-﻿# Week 2: Enterprise Infrastructure Planning for a Startup Company
+﻿# Week 1 – Building My Professional Environment
 
 ## Student Information
 
